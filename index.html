@@ -1,0 +1,216 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>K线图与股票筛选</title>
+        <style>
+            body, html {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            #container {
+                display: flex;
+                height: 100vh;
+            }
+            #left-container {
+                flex: 1;
+                overflow: auto;
+            }
+            #kline-chart-container {
+                flex: 2;
+                display: flex;
+                flex-direction: column;
+            }
+            #kline-chart {
+                flex-grow: 1;
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+            th, td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+            .period-button {
+                background-color: blue;
+                color: white;
+                border: none;
+                padding: 5px 10px;
+                margin: 2px;
+                cursor: pointer;
+            }
+            .period-button:hover {
+                background-color: darkblue;
+            }
+            .selected {
+                background-color: rgb(218, 0, 0) !important;
+                color: white !important;
+            }
+        </style>
+    </head>
+    <body>
+    <div id="container">
+        <div id="left-container">
+            <div id="top-section">
+                <div id="filtered-stock-count">已筛选出 0 支股票</div>
+                <div id="checkbox-container">
+                    <input type="checkbox" id="sz-checkbox" value="SZ" checked> SZ
+                    <input type="checkbox" id="sh-checkbox" value="SH" checked> SH
+                    <input type="checkbox" id="bj-checkbox" value="BJ"> BJ
+                </div>
+            </div>
+            <div id="scrollable-table-container">
+                <table id="stock-table">
+                    <thead>
+                        <tr>
+                            <th>Stock Code</th>
+                            <th>Short Name</th>
+                            <th>Exchange</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- 表格内容将在这里动态插入 -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="kline-chart-container">
+            <div id="period-buttons">
+                <button class="period-button" data-period="1">日K</button>
+                <button class="period-button" data-period="7">周K</button>
+                <button class="period-button" data-period="30">季K</button>
+                <button class="period-button" data-period="180">半年K</button>
+                <button class="period-button" data-period="365">年K</button>
+            </div>
+            <div id="kline-chart">
+                <!-- TradingView K线图将在这里显示 -->
+            </div>
+        </div>
+    </div>
+    <script src="https://s3.tradingview.com/tv.js"></script>
+    <script>
+        let currentStock = null; // 假设这是一个全局变量来存储当前选中的股票数据
+
+        document.addEventListener("DOMContentLoaded", function() {
+            const filteredStockCountElement = document.getElementById('filtered-stock-count');
+            const szCheckbox = document.getElementById('sz-checkbox');
+            const shCheckbox = document.getElementById('sh-checkbox');
+            const bjCheckbox = document.getElementById('bj-checkbox');
+            const tbody = document.getElementById('stock-table').getElementsByTagName('tbody')[0];
+            const periodButtons = document.querySelectorAll('.period-button');
+            periodButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    if (currentStock) {
+                        updateKLineChart(currentStock, button.dataset.period);
+                        highlightButton(button);
+                    }
+                });
+            });
+
+            function highlightButton(selectedButton) {
+                periodButtons.forEach(button => {
+                    button.classList.remove('selected');
+                });
+                selectedButton.classList.add('selected');
+            }
+
+            highlightButton(periodButtons[0]); // 默认选中日K
+
+            szCheckbox.addEventListener('change', fetchStockData);
+            shCheckbox.addEventListener('change', fetchStockData);
+            bjCheckbox.addEventListener('change', fetchStockData);
+
+            fetchStockData();
+
+            function fetchStockData() {
+                tbody.innerHTML = '';
+                let filteredStockCount = 0;
+                // 获取今天的日期
+                var today = new Date();
+                var year = today.getFullYear();
+                var month = ('0' + (today.getMonth() + 1)).slice(-2); // 月份从0开始，需要加1，并且保证两位数格式
+                var day = ('0' + today.getDate()).slice(-2); // 日期需要保证两位数格式
+
+                // 构建文件名
+                var fileName = 'result_' + year + '-' + month + '-' + day + '.json';
+
+                // 发起请求
+                fetch(fileName)
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(stock => {
+                        if ((szCheckbox.checked && stock.exchange === 'SZ') ||
+                            (shCheckbox.checked && stock.exchange === 'SH') ||
+                            (bjCheckbox.checked && stock.exchange === 'BJ')) {
+                            const row = tbody.insertRow();
+                            const cell1 = row.insertCell(0);
+                            cell1.textContent = stock.stock_code;
+
+                            const cell2 = row.insertCell(1);
+                            cell2.textContent = stock.short_name;
+
+                            const cell3 = row.insertCell(2);
+                            cell3.textContent = stock.exchange;
+
+                            row.addEventListener("click", function() {
+                                currentStock = stock; // 更新当前选中的股票
+                                updateKLineChart(stock, document.querySelector('.selected').dataset.period);
+                                highlightRow(row);
+                            });
+
+                            filteredStockCount++;
+                        }
+                    });
+
+                    filteredStockCountElement.textContent = `已筛选出 ${filteredStockCount} 支股票`;
+                })
+                .catch(error => console.error('Error loading the data:', error));
+            }
+
+            function updateKLineChart(stock, period) {
+                const exchangePrefix = {
+                    'SZ': 'SZSE:',
+                    'SH': 'SSE:',
+                    'BJ': 'BSE:'
+                };
+
+                new TradingView.widget({
+                    "container_id": "kline-chart",
+                    "symbol": exchangePrefix[stock.exchange] + stock.stock_code,
+                    "interval": period,
+                    "timezone": "Etc/UTC",
+                    "theme": "light",
+                    "style": "1",
+                    "locale": "zh_CN",
+                    "toolbar_bg": "#f1f3f6",
+                    "enable_publishing": false,
+                    "hide_side_toolbar": false,
+                    "allow_symbol_change": true,
+                    "width": "100%",
+                    "height": "100%",
+                    "overrides": {
+                        "mainSeriesProperties.candleStyle.upColor": "#DB0000", // 上涨的蜡烛颜色 - 亮红色
+                        "mainSeriesProperties.candleStyle.downColor": "#008000", // 下跌的蜡烛颜色 - 办公绿
+                        "mainSeriesProperties.candleStyle.borderUpColor": "#DB0000", // 上涨蜡烛的边框颜色 - 亮红色
+                        "mainSeriesProperties.candleStyle.borderDownColor": "#008000", // 下跌蜡烛的边框颜色 - 办公绿
+                        "mainSeriesProperties.candleStyle.wickUpColor": "#DB0000", // 上涨蜡烛的影线颜色 - 亮红色
+                        "mainSeriesProperties.candleStyle.wickDownColor": "#008000" // 下跌蜡烛的影线颜色 - 办公绿
+                    }            });
+            }
+
+            function highlightRow(row) {
+                Array.from(tbody.children).forEach(r => {
+                    r.classList.remove("selected");
+                });
+                row.classList.add("selected");
+            }
+        });
+    </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,2372 @@
+[
+    {
+        "stock_code": "000030",
+        "short_name": "富奥股份",
+        "exchange": "SZ",
+        "list_date": "1993-09-29"
+    },
+    {
+        "stock_code": "000155",
+        "short_name": "川能动力",
+        "exchange": "SZ",
+        "list_date": "2000-09-26"
+    },
+    {
+        "stock_code": "000415",
+        "short_name": "渤海租赁",
+        "exchange": "SZ",
+        "list_date": "1996-07-16"
+    },
+    {
+        "stock_code": "000513",
+        "short_name": "丽珠集团",
+        "exchange": "SZ",
+        "list_date": "1993-10-28"
+    },
+    {
+        "stock_code": "000517",
+        "short_name": "荣安地产",
+        "exchange": "SZ",
+        "list_date": "1993-08-06"
+    },
+    {
+        "stock_code": "000532",
+        "short_name": "华金资本",
+        "exchange": "SZ",
+        "list_date": "1994-01-03"
+    },
+    {
+        "stock_code": "000538",
+        "short_name": "云南白药",
+        "exchange": "SZ",
+        "list_date": "1993-12-15"
+    },
+    {
+        "stock_code": "000544",
+        "short_name": "中原环保",
+        "exchange": "SZ",
+        "list_date": "1993-12-08"
+    },
+    {
+        "stock_code": "000555",
+        "short_name": "神州信息",
+        "exchange": "SZ",
+        "list_date": "1994-04-08"
+    },
+    {
+        "stock_code": "000596",
+        "short_name": "古井贡酒",
+        "exchange": "SZ",
+        "list_date": "1996-09-27"
+    },
+    {
+        "stock_code": "000601",
+        "short_name": "韶能股份",
+        "exchange": "SZ",
+        "list_date": "1996-08-30"
+    },
+    {
+        "stock_code": "000651",
+        "short_name": "格力电器",
+        "exchange": "SZ",
+        "list_date": "1996-11-18"
+    },
+    {
+        "stock_code": "000683",
+        "short_name": "远兴能源",
+        "exchange": "SZ",
+        "list_date": "1997-01-31"
+    },
+    {
+        "stock_code": "000703",
+        "short_name": "恒逸石化",
+        "exchange": "SZ",
+        "list_date": "1997-03-28"
+    },
+    {
+        "stock_code": "000707",
+        "short_name": "双环科技",
+        "exchange": "SZ",
+        "list_date": "1997-04-15"
+    },
+    {
+        "stock_code": "000768",
+        "short_name": "中航西飞",
+        "exchange": "SZ",
+        "list_date": "1997-06-26"
+    },
+    {
+        "stock_code": "000788",
+        "short_name": "北大医药",
+        "exchange": "SZ",
+        "list_date": "1997-06-16"
+    },
+    {
+        "stock_code": "000795",
+        "short_name": "英洛华",
+        "exchange": "SZ",
+        "list_date": "1997-08-08"
+    },
+    {
+        "stock_code": "000786",
+        "short_name": "北新建材",
+        "exchange": "SZ",
+        "list_date": "1997-06-06"
+    },
+    {
+        "stock_code": "000830",
+        "short_name": "鲁西化工",
+        "exchange": "SZ",
+        "list_date": "1998-08-07"
+    },
+    {
+        "stock_code": "000839",
+        "short_name": "ST国安",
+        "exchange": "SZ",
+        "list_date": "1997-10-31"
+    },
+    {
+        "stock_code": "000887",
+        "short_name": "中鼎股份",
+        "exchange": "SZ",
+        "list_date": "1998-12-03"
+    },
+    {
+        "stock_code": "000897",
+        "short_name": "津滨发展",
+        "exchange": "SZ",
+        "list_date": "1999-04-22"
+    },
+    {
+        "stock_code": "000900",
+        "short_name": "现代投资",
+        "exchange": "SZ",
+        "list_date": "1999-01-28"
+    },
+    {
+        "stock_code": "000913",
+        "short_name": "钱江摩托",
+        "exchange": "SZ",
+        "list_date": "1999-05-14"
+    },
+    {
+        "stock_code": "000921",
+        "short_name": "海信家电",
+        "exchange": "SZ",
+        "list_date": "1999-07-13"
+    },
+    {
+        "stock_code": "000926",
+        "short_name": "福星股份",
+        "exchange": "SZ",
+        "list_date": "1999-06-18"
+    },
+    {
+        "stock_code": "000930",
+        "short_name": "中粮科技",
+        "exchange": "SZ",
+        "list_date": "1999-07-12"
+    },
+    {
+        "stock_code": "001203",
+        "short_name": "大中矿业",
+        "exchange": "SZ",
+        "list_date": "2021-05-10"
+    },
+    {
+        "stock_code": "001213",
+        "short_name": "中铁特货",
+        "exchange": "SZ",
+        "list_date": "2021-09-08"
+    },
+    {
+        "stock_code": "001296",
+        "short_name": "长江材料",
+        "exchange": "SZ",
+        "list_date": "2021-12-24"
+    },
+    {
+        "stock_code": "001313",
+        "short_name": "粤海饲料",
+        "exchange": "SZ",
+        "list_date": "2022-02-16"
+    },
+    {
+        "stock_code": "001330",
+        "short_name": "博纳影业",
+        "exchange": "SZ",
+        "list_date": "2022-08-18"
+    },
+    {
+        "stock_code": "001367",
+        "short_name": "海森药业",
+        "exchange": "SZ",
+        "list_date": "2023-04-10"
+    },
+    {
+        "stock_code": "002004",
+        "short_name": "华邦健康",
+        "exchange": "SZ",
+        "list_date": "2004-06-25"
+    },
+    {
+        "stock_code": "002019",
+        "short_name": "亿帆医药",
+        "exchange": "SZ",
+        "list_date": "2004-07-13"
+    },
+    {
+        "stock_code": "002020",
+        "short_name": "京新药业",
+        "exchange": "SZ",
+        "list_date": "2004-07-15"
+    },
+    {
+        "stock_code": "002026",
+        "short_name": "山东威达",
+        "exchange": "SZ",
+        "list_date": "2004-07-27"
+    },
+    {
+        "stock_code": "002035",
+        "short_name": "华帝股份",
+        "exchange": "SZ",
+        "list_date": "2004-09-01"
+    },
+    {
+        "stock_code": "002048",
+        "short_name": "宁波华翔",
+        "exchange": "SZ",
+        "list_date": "2005-06-03"
+    },
+    {
+        "stock_code": "002099",
+        "short_name": "海翔药业",
+        "exchange": "SZ",
+        "list_date": "2006-12-26"
+    },
+    {
+        "stock_code": "002106",
+        "short_name": "莱宝高科",
+        "exchange": "SZ",
+        "list_date": "2007-01-12"
+    },
+    {
+        "stock_code": "002120",
+        "short_name": "韵达股份",
+        "exchange": "SZ",
+        "list_date": "2007-03-06"
+    },
+    {
+        "stock_code": "002128",
+        "short_name": "电投能源",
+        "exchange": "SZ",
+        "list_date": "2007-04-18"
+    },
+    {
+        "stock_code": "002126",
+        "short_name": "银轮股份",
+        "exchange": "SZ",
+        "list_date": "2007-04-18"
+    },
+    {
+        "stock_code": "002130",
+        "short_name": "沃尔核材",
+        "exchange": "SZ",
+        "list_date": "2007-04-20"
+    },
+    {
+        "stock_code": "002140",
+        "short_name": "东华科技",
+        "exchange": "SZ",
+        "list_date": "2007-07-12"
+    },
+    {
+        "stock_code": "002145",
+        "short_name": "中核钛白",
+        "exchange": "SZ",
+        "list_date": "2007-08-03"
+    },
+    {
+        "stock_code": "002146",
+        "short_name": "荣盛发展",
+        "exchange": "SZ",
+        "list_date": "2007-08-08"
+    },
+    {
+        "stock_code": "002125",
+        "short_name": "湘潭电化",
+        "exchange": "SZ",
+        "list_date": "2007-04-03"
+    },
+    {
+        "stock_code": "002225",
+        "short_name": "濮耐股份",
+        "exchange": "SZ",
+        "list_date": "2008-04-25"
+    },
+    {
+        "stock_code": "002223",
+        "short_name": "鱼跃医疗",
+        "exchange": "SZ",
+        "list_date": "2008-04-18"
+    },
+    {
+        "stock_code": "002231",
+        "short_name": "奥维通信",
+        "exchange": "SZ",
+        "list_date": "2008-05-12"
+    },
+    {
+        "stock_code": "002249",
+        "short_name": "大洋电机",
+        "exchange": "SZ",
+        "list_date": "2008-06-19"
+    },
+    {
+        "stock_code": "002255",
+        "short_name": "海陆重工",
+        "exchange": "SZ",
+        "list_date": "2008-06-25"
+    },
+    {
+        "stock_code": "002262",
+        "short_name": "恩华药业",
+        "exchange": "SZ",
+        "list_date": "2008-07-23"
+    },
+    {
+        "stock_code": "002267",
+        "short_name": "陕天然气",
+        "exchange": "SZ",
+        "list_date": "2008-08-13"
+    },
+    {
+        "stock_code": "002274",
+        "short_name": "华昌化工",
+        "exchange": "SZ",
+        "list_date": "2008-09-25"
+    },
+    {
+        "stock_code": "002142",
+        "short_name": "宁波银行",
+        "exchange": "SZ",
+        "list_date": "2007-07-19"
+    },
+    {
+        "stock_code": "002294",
+        "short_name": "信立泰",
+        "exchange": "SZ",
+        "list_date": "2009-09-10"
+    },
+    {
+        "stock_code": "002296",
+        "short_name": "辉煌科技",
+        "exchange": "SZ",
+        "list_date": "2009-09-29"
+    },
+    {
+        "stock_code": "002305",
+        "short_name": "南国置业",
+        "exchange": "SZ",
+        "list_date": "2009-11-06"
+    },
+    {
+        "stock_code": "002318",
+        "short_name": "久立特材",
+        "exchange": "SZ",
+        "list_date": "2009-12-11"
+    },
+    {
+        "stock_code": "002332",
+        "short_name": "仙琚制药",
+        "exchange": "SZ",
+        "list_date": "2010-01-12"
+    },
+    {
+        "stock_code": "002365",
+        "short_name": "永安药业",
+        "exchange": "SZ",
+        "list_date": "2010-03-05"
+    },
+    {
+        "stock_code": "002379",
+        "short_name": "宏创控股",
+        "exchange": "SZ",
+        "list_date": "2010-03-31"
+    },
+    {
+        "stock_code": "002404",
+        "short_name": "嘉欣丝绸",
+        "exchange": "SZ",
+        "list_date": "2010-05-11"
+    },
+    {
+        "stock_code": "002399",
+        "short_name": "海普瑞",
+        "exchange": "SZ",
+        "list_date": "2010-05-06"
+    },
+    {
+        "stock_code": "002409",
+        "short_name": "雅克科技",
+        "exchange": "SZ",
+        "list_date": "2010-05-25"
+    },
+    {
+        "stock_code": "002412",
+        "short_name": "汉森制药",
+        "exchange": "SZ",
+        "list_date": "2010-05-25"
+    },
+    {
+        "stock_code": "002422",
+        "short_name": "科伦药业",
+        "exchange": "SZ",
+        "list_date": "2010-06-03"
+    },
+    {
+        "stock_code": "002438",
+        "short_name": "江苏神通",
+        "exchange": "SZ",
+        "list_date": "2010-06-23"
+    },
+    {
+        "stock_code": "002441",
+        "short_name": "众业达",
+        "exchange": "SZ",
+        "list_date": "2010-07-06"
+    },
+    {
+        "stock_code": "002440",
+        "short_name": "闰土股份",
+        "exchange": "SZ",
+        "list_date": "2010-07-06"
+    },
+    {
+        "stock_code": "002448",
+        "short_name": "中原内配",
+        "exchange": "SZ",
+        "list_date": "2010-07-16"
+    },
+    {
+        "stock_code": "002455",
+        "short_name": "百川股份",
+        "exchange": "SZ",
+        "list_date": "2010-08-03"
+    },
+    {
+        "stock_code": "002461",
+        "short_name": "珠江啤酒",
+        "exchange": "SZ",
+        "list_date": "2010-08-18"
+    },
+    {
+        "stock_code": "002463",
+        "short_name": "沪电股份",
+        "exchange": "SZ",
+        "list_date": "2010-08-18"
+    },
+    {
+        "stock_code": "002496",
+        "short_name": "辉丰股份",
+        "exchange": "SZ",
+        "list_date": "2010-11-09"
+    },
+    {
+        "stock_code": "002507",
+        "short_name": "涪陵榨菜",
+        "exchange": "SZ",
+        "list_date": "2010-11-23"
+    },
+    {
+        "stock_code": "002008",
+        "short_name": "大族激光",
+        "exchange": "SZ",
+        "list_date": "2004-06-25"
+    },
+    {
+        "stock_code": "002519",
+        "short_name": "银河电子",
+        "exchange": "SZ",
+        "list_date": "2010-12-07"
+    },
+    {
+        "stock_code": "002532",
+        "short_name": "天山铝业",
+        "exchange": "SZ",
+        "list_date": "2010-12-31"
+    },
+    {
+        "stock_code": "002550",
+        "short_name": "千红制药",
+        "exchange": "SZ",
+        "list_date": "2011-02-18"
+    },
+    {
+        "stock_code": "002540",
+        "short_name": "亚太科技",
+        "exchange": "SZ",
+        "list_date": "2011-01-18"
+    },
+    {
+        "stock_code": "002557",
+        "short_name": "洽洽食品",
+        "exchange": "SZ",
+        "list_date": "2011-03-02"
+    },
+    {
+        "stock_code": "002563",
+        "short_name": "森马服饰",
+        "exchange": "SZ",
+        "list_date": "2011-03-11"
+    },
+    {
+        "stock_code": "002581",
+        "short_name": "未名医药",
+        "exchange": "SZ",
+        "list_date": "2011-05-20"
+    },
+    {
+        "stock_code": "002588",
+        "short_name": "史丹利",
+        "exchange": "SZ",
+        "list_date": "2011-06-10"
+    },
+    {
+        "stock_code": "002597",
+        "short_name": "金禾实业",
+        "exchange": "SZ",
+        "list_date": "2011-07-07"
+    },
+    {
+        "stock_code": "002595",
+        "short_name": "豪迈科技",
+        "exchange": "SZ",
+        "list_date": "2011-06-28"
+    },
+    {
+        "stock_code": "002601",
+        "short_name": "龙佰集团",
+        "exchange": "SZ",
+        "list_date": "2011-07-15"
+    },
+    {
+        "stock_code": "002635",
+        "short_name": "安洁科技",
+        "exchange": "SZ",
+        "list_date": "2011-11-25"
+    },
+    {
+        "stock_code": "002637",
+        "short_name": "赞宇科技",
+        "exchange": "SZ",
+        "list_date": "2011-11-25"
+    },
+    {
+        "stock_code": "002646",
+        "short_name": "天佑德酒",
+        "exchange": "SZ",
+        "list_date": "2011-12-22"
+    },
+    {
+        "stock_code": "002653",
+        "short_name": "海思科",
+        "exchange": "SZ",
+        "list_date": "2012-01-17"
+    },
+    {
+        "stock_code": "002662",
+        "short_name": "京威股份",
+        "exchange": "SZ",
+        "list_date": "2012-03-09"
+    },
+    {
+        "stock_code": "002674",
+        "short_name": "兴业科技",
+        "exchange": "SZ",
+        "list_date": "2012-05-07"
+    },
+    {
+        "stock_code": "002670",
+        "short_name": "国盛金控",
+        "exchange": "SZ",
+        "list_date": "2012-04-16"
+    },
+    {
+        "stock_code": "002701",
+        "short_name": "奥瑞金",
+        "exchange": "SZ",
+        "list_date": "2012-10-11"
+    },
+    {
+        "stock_code": "002752",
+        "short_name": "昇兴股份",
+        "exchange": "SZ",
+        "list_date": "2015-04-22"
+    },
+    {
+        "stock_code": "002755",
+        "short_name": "奥赛康",
+        "exchange": "SZ",
+        "list_date": "2015-05-15"
+    },
+    {
+        "stock_code": "002773",
+        "short_name": "康弘药业",
+        "exchange": "SZ",
+        "list_date": "2015-06-26"
+    },
+    {
+        "stock_code": "002768",
+        "short_name": "国恩股份",
+        "exchange": "SZ",
+        "list_date": "2015-06-30"
+    },
+    {
+        "stock_code": "002788",
+        "short_name": "鹭燕医药",
+        "exchange": "SZ",
+        "list_date": "2016-02-18"
+    },
+    {
+        "stock_code": "002807",
+        "short_name": "江阴银行",
+        "exchange": "SZ",
+        "list_date": "2016-09-02"
+    },
+    {
+        "stock_code": "002823",
+        "short_name": "凯中精密",
+        "exchange": "SZ",
+        "list_date": "2016-11-24"
+    },
+    {
+        "stock_code": "002839",
+        "short_name": "张家港行",
+        "exchange": "SZ",
+        "list_date": "2017-01-24"
+    },
+    {
+        "stock_code": "002880",
+        "short_name": "卫光生物",
+        "exchange": "SZ",
+        "list_date": "2017-06-16"
+    },
+    {
+        "stock_code": "002884",
+        "short_name": "凌霄泵业",
+        "exchange": "SZ",
+        "list_date": "2017-07-11"
+    },
+    {
+        "stock_code": "002899",
+        "short_name": "英派斯",
+        "exchange": "SZ",
+        "list_date": "2017-09-15"
+    },
+    {
+        "stock_code": "002906",
+        "short_name": "华阳集团",
+        "exchange": "SZ",
+        "list_date": "2017-10-13"
+    },
+    {
+        "stock_code": "002940",
+        "short_name": "昂利康",
+        "exchange": "SZ",
+        "list_date": "2018-10-23"
+    },
+    {
+        "stock_code": "002948",
+        "short_name": "青岛银行",
+        "exchange": "SZ",
+        "list_date": "2019-01-16"
+    },
+    {
+        "stock_code": "002950",
+        "short_name": "奥美医疗",
+        "exchange": "SZ",
+        "list_date": "2019-03-11"
+    },
+    {
+        "stock_code": "002922",
+        "short_name": "伊戈尔",
+        "exchange": "SZ",
+        "list_date": "2017-12-29"
+    },
+    {
+        "stock_code": "002958",
+        "short_name": "青农商行",
+        "exchange": "SZ",
+        "list_date": "2019-03-26"
+    },
+    {
+        "stock_code": "002965",
+        "short_name": "祥鑫科技",
+        "exchange": "SZ",
+        "list_date": "2019-10-25"
+    },
+    {
+        "stock_code": "002970",
+        "short_name": "锐明技术",
+        "exchange": "SZ",
+        "list_date": "2019-12-17"
+    },
+    {
+        "stock_code": "003006",
+        "short_name": "百亚股份",
+        "exchange": "SZ",
+        "list_date": "2020-09-21"
+    },
+    {
+        "stock_code": "003020",
+        "short_name": "立方制药",
+        "exchange": "SZ",
+        "list_date": "2020-12-15"
+    },
+    {
+        "stock_code": "003019",
+        "short_name": "宸展光电",
+        "exchange": "SZ",
+        "list_date": "2020-11-17"
+    },
+    {
+        "stock_code": "003023",
+        "short_name": "彩虹集团",
+        "exchange": "SZ",
+        "list_date": "2020-12-11"
+    },
+    {
+        "stock_code": "003028",
+        "short_name": "振邦智能",
+        "exchange": "SZ",
+        "list_date": "2020-12-28"
+    },
+    {
+        "stock_code": "003029",
+        "short_name": "吉大正元",
+        "exchange": "SZ",
+        "list_date": "2020-12-24"
+    },
+    {
+        "stock_code": "200512",
+        "short_name": "闽灿坤Ｂ",
+        "exchange": "SZ",
+        "list_date": "NaN"
+    },
+    {
+        "stock_code": "200596",
+        "short_name": "古井贡Ｂ",
+        "exchange": "SZ",
+        "list_date": "NaN"
+    },
+    {
+        "stock_code": "200521",
+        "short_name": "虹美菱B",
+        "exchange": "SZ",
+        "list_date": "NaN"
+    },
+    {
+        "stock_code": "200581",
+        "short_name": "苏威孚Ｂ",
+        "exchange": "SZ",
+        "list_date": "NaN"
+    },
+    {
+        "stock_code": "201872",
+        "short_name": "招港B",
+        "exchange": "SZ",
+        "list_date": "NaN"
+    },
+    {
+        "stock_code": "200771",
+        "short_name": "杭汽轮Ｂ",
+        "exchange": "SZ",
+        "list_date": "NaN"
+    },
+    {
+        "stock_code": "300009",
+        "short_name": "安科生物",
+        "exchange": "SZ",
+        "list_date": "2009-10-30"
+    },
+    {
+        "stock_code": "300054",
+        "short_name": "鼎龙股份",
+        "exchange": "SZ",
+        "list_date": "2010-02-11"
+    },
+    {
+        "stock_code": "300100",
+        "short_name": "双林股份",
+        "exchange": "SZ",
+        "list_date": "2010-08-06"
+    },
+    {
+        "stock_code": "300119",
+        "short_name": "瑞普生物",
+        "exchange": "SZ",
+        "list_date": "2010-09-17"
+    },
+    {
+        "stock_code": "300160",
+        "short_name": "秀强股份",
+        "exchange": "SZ",
+        "list_date": "2011-01-13"
+    },
+    {
+        "stock_code": "300177",
+        "short_name": "中海达",
+        "exchange": "SZ",
+        "list_date": "2011-02-15"
+    },
+    {
+        "stock_code": "300181",
+        "short_name": "佐力药业",
+        "exchange": "SZ",
+        "list_date": "2011-02-22"
+    },
+    {
+        "stock_code": "300193",
+        "short_name": "佳士科技",
+        "exchange": "SZ",
+        "list_date": "2011-03-22"
+    },
+    {
+        "stock_code": "300200",
+        "short_name": "高盟新材",
+        "exchange": "SZ",
+        "list_date": "2011-04-07"
+    },
+    {
+        "stock_code": "300207",
+        "short_name": "欣旺达",
+        "exchange": "SZ",
+        "list_date": "2011-04-21"
+    },
+    {
+        "stock_code": "300220",
+        "short_name": "ST金运",
+        "exchange": "SZ",
+        "list_date": "2011-05-25"
+    },
+    {
+        "stock_code": "300221",
+        "short_name": "银禧科技",
+        "exchange": "SZ",
+        "list_date": "2011-05-25"
+    },
+    {
+        "stock_code": "300233",
+        "short_name": "金城医药",
+        "exchange": "SZ",
+        "list_date": "2011-06-22"
+    },
+    {
+        "stock_code": "300289",
+        "short_name": "利德曼",
+        "exchange": "SZ",
+        "list_date": "2012-02-16"
+    },
+    {
+        "stock_code": "300298",
+        "short_name": "三诺生物",
+        "exchange": "SZ",
+        "list_date": "2012-03-19"
+    },
+    {
+        "stock_code": "300295",
+        "short_name": "三六五网",
+        "exchange": "SZ",
+        "list_date": "2012-03-15"
+    },
+    {
+        "stock_code": "300308",
+        "short_name": "中际旭创",
+        "exchange": "SZ",
+        "list_date": "2012-04-10"
+    },
+    {
+        "stock_code": "300304",
+        "short_name": "云意电气",
+        "exchange": "SZ",
+        "list_date": "2012-03-21"
+    },
+    {
+        "stock_code": "300310",
+        "short_name": "宜通世纪",
+        "exchange": "SZ",
+        "list_date": "2012-04-25"
+    },
+    {
+        "stock_code": "300320",
+        "short_name": "海达股份",
+        "exchange": "SZ",
+        "list_date": "2012-06-01"
+    },
+    {
+        "stock_code": "300381",
+        "short_name": "溢多利",
+        "exchange": "SZ",
+        "list_date": "2014-01-28"
+    },
+    {
+        "stock_code": "300401",
+        "short_name": "花园生物",
+        "exchange": "SZ",
+        "list_date": "2014-10-09"
+    },
+    {
+        "stock_code": "300407",
+        "short_name": "凯发电气",
+        "exchange": "SZ",
+        "list_date": "2014-12-03"
+    },
+    {
+        "stock_code": "300408",
+        "short_name": "三环集团",
+        "exchange": "SZ",
+        "list_date": "2014-12-03"
+    },
+    {
+        "stock_code": "300422",
+        "short_name": "博世科",
+        "exchange": "SZ",
+        "list_date": "2015-02-17"
+    },
+    {
+        "stock_code": "300433",
+        "short_name": "蓝思科技",
+        "exchange": "SZ",
+        "list_date": "2015-03-18"
+    },
+    {
+        "stock_code": "300439",
+        "short_name": "美康生物",
+        "exchange": "SZ",
+        "list_date": "2015-04-22"
+    },
+    {
+        "stock_code": "300453",
+        "short_name": "三鑫医疗",
+        "exchange": "SZ",
+        "list_date": "2015-05-15"
+    },
+    {
+        "stock_code": "300470",
+        "short_name": "中密控股",
+        "exchange": "SZ",
+        "list_date": "2015-06-12"
+    },
+    {
+        "stock_code": "300482",
+        "short_name": "万孚生物",
+        "exchange": "SZ",
+        "list_date": "2015-06-30"
+    },
+    {
+        "stock_code": "300502",
+        "short_name": "新易盛",
+        "exchange": "SZ",
+        "list_date": "2016-03-03"
+    },
+    {
+        "stock_code": "001323",
+        "short_name": "慕思股份",
+        "exchange": "SZ",
+        "list_date": "2022-06-23"
+    },
+    {
+        "stock_code": "300529",
+        "short_name": "健帆生物",
+        "exchange": "SZ",
+        "list_date": "2016-08-02"
+    },
+    {
+        "stock_code": "300520",
+        "short_name": "科大国创",
+        "exchange": "SZ",
+        "list_date": "2016-07-08"
+    },
+    {
+        "stock_code": "300577",
+        "short_name": "开润股份",
+        "exchange": "SZ",
+        "list_date": "2016-12-21"
+    },
+    {
+        "stock_code": "300582",
+        "short_name": "英飞特",
+        "exchange": "SZ",
+        "list_date": "2016-12-28"
+    },
+    {
+        "stock_code": "300587",
+        "short_name": "天铁股份",
+        "exchange": "SZ",
+        "list_date": "2017-01-05"
+    },
+    {
+        "stock_code": "300627",
+        "short_name": "华测导航",
+        "exchange": "SZ",
+        "list_date": "2017-03-21"
+    },
+    {
+        "stock_code": "300636",
+        "short_name": "同和药业",
+        "exchange": "SZ",
+        "list_date": "2017-03-31"
+    },
+    {
+        "stock_code": "300641",
+        "short_name": "正丹股份",
+        "exchange": "SZ",
+        "list_date": "2017-04-18"
+    },
+    {
+        "stock_code": "300677",
+        "short_name": "英科医疗",
+        "exchange": "SZ",
+        "list_date": "2017-07-21"
+    },
+    {
+        "stock_code": "300679",
+        "short_name": "电连技术",
+        "exchange": "SZ",
+        "list_date": "2017-07-31"
+    },
+    {
+        "stock_code": "300497",
+        "short_name": "富祥药业",
+        "exchange": "SZ",
+        "list_date": "2015-12-22"
+    },
+    {
+        "stock_code": "300702",
+        "short_name": "天宇股份",
+        "exchange": "SZ",
+        "list_date": "2017-09-19"
+    },
+    {
+        "stock_code": "300717",
+        "short_name": "华信新材",
+        "exchange": "SZ",
+        "list_date": "2017-11-06"
+    },
+    {
+        "stock_code": "300760",
+        "short_name": "迈瑞医疗",
+        "exchange": "SZ",
+        "list_date": "2018-10-16"
+    },
+    {
+        "stock_code": "300768",
+        "short_name": "迪普科技",
+        "exchange": "SZ",
+        "list_date": "2019-04-12"
+    },
+    {
+        "stock_code": "300783",
+        "short_name": "三只松鼠",
+        "exchange": "SZ",
+        "list_date": "2019-07-12"
+    },
+    {
+        "stock_code": "300815",
+        "short_name": "玉禾田",
+        "exchange": "SZ",
+        "list_date": "2020-01-23"
+    },
+    {
+        "stock_code": "300864",
+        "short_name": "南大环境",
+        "exchange": "SZ",
+        "list_date": "2020-08-24"
+    },
+    {
+        "stock_code": "300872",
+        "short_name": "天阳科技",
+        "exchange": "SZ",
+        "list_date": "2020-08-24"
+    },
+    {
+        "stock_code": "300905",
+        "short_name": "宝丽迪",
+        "exchange": "SZ",
+        "list_date": "2020-11-05"
+    },
+    {
+        "stock_code": "300925",
+        "short_name": "法本信息",
+        "exchange": "SZ",
+        "list_date": "2020-12-30"
+    },
+    {
+        "stock_code": "300950",
+        "short_name": "德固特",
+        "exchange": "SZ",
+        "list_date": "2021-03-03"
+    },
+    {
+        "stock_code": "300947",
+        "short_name": "德必集团",
+        "exchange": "SZ",
+        "list_date": "2021-02-10"
+    },
+    {
+        "stock_code": "300969",
+        "short_name": "恒帅股份",
+        "exchange": "SZ",
+        "list_date": "2021-04-12"
+    },
+    {
+        "stock_code": "301004",
+        "short_name": "嘉益股份",
+        "exchange": "SZ",
+        "list_date": "2021-06-25"
+    },
+    {
+        "stock_code": "301003",
+        "short_name": "江苏博云",
+        "exchange": "SZ",
+        "list_date": "2021-06-01"
+    },
+    {
+        "stock_code": "301055",
+        "short_name": "张小泉",
+        "exchange": "SZ",
+        "list_date": "2021-09-06"
+    },
+    {
+        "stock_code": "301087",
+        "short_name": "可孚医疗",
+        "exchange": "SZ",
+        "list_date": "2021-10-25"
+    },
+    {
+        "stock_code": "301109",
+        "short_name": "军信股份",
+        "exchange": "SZ",
+        "list_date": "2022-04-13"
+    },
+    {
+        "stock_code": "301156",
+        "short_name": "美农生物",
+        "exchange": "SZ",
+        "list_date": "2022-06-17"
+    },
+    {
+        "stock_code": "301130",
+        "short_name": "西点药业",
+        "exchange": "SZ",
+        "list_date": "2022-02-23"
+    },
+    {
+        "stock_code": "301193",
+        "short_name": "家联科技",
+        "exchange": "SZ",
+        "list_date": "2021-12-09"
+    },
+    {
+        "stock_code": "301206",
+        "short_name": "三元生物",
+        "exchange": "SZ",
+        "list_date": "2022-02-10"
+    },
+    {
+        "stock_code": "301260",
+        "short_name": "格力博",
+        "exchange": "SZ",
+        "list_date": "2023-02-08"
+    },
+    {
+        "stock_code": "301276",
+        "short_name": "嘉曼服饰",
+        "exchange": "SZ",
+        "list_date": "2022-09-09"
+    },
+    {
+        "stock_code": "301277",
+        "short_name": "新天地",
+        "exchange": "SZ",
+        "list_date": "2022-11-16"
+    },
+    {
+        "stock_code": "301301",
+        "short_name": "川宁生物",
+        "exchange": "SZ",
+        "list_date": "2022-12-27"
+    },
+    {
+        "stock_code": "301305",
+        "short_name": "朗坤环境",
+        "exchange": "SZ",
+        "list_date": "2023-05-23"
+    },
+    {
+        "stock_code": "301335",
+        "short_name": "天元宠物",
+        "exchange": "SZ",
+        "list_date": "2022-11-18"
+    },
+    {
+        "stock_code": "301331",
+        "short_name": "恩威医药",
+        "exchange": "SZ",
+        "list_date": "2022-09-21"
+    },
+    {
+        "stock_code": "301371",
+        "short_name": "敷尔佳",
+        "exchange": "SZ",
+        "list_date": "2023-08-01"
+    },
+    {
+        "stock_code": "301439",
+        "short_name": "泓淋电力",
+        "exchange": "SZ",
+        "list_date": "2023-03-17"
+    },
+    {
+        "stock_code": "301498",
+        "short_name": "乖宝宠物",
+        "exchange": "SZ",
+        "list_date": "2023-08-16"
+    },
+    {
+        "stock_code": "301550",
+        "short_name": "斯菱股份",
+        "exchange": "SZ",
+        "list_date": "2023-09-15"
+    },
+    {
+        "stock_code": "600000",
+        "short_name": "浦发银行",
+        "exchange": "SH",
+        "list_date": "1999-11-10"
+    },
+    {
+        "stock_code": "600031",
+        "short_name": "三一重工",
+        "exchange": "SH",
+        "list_date": "2003-07-03"
+    },
+    {
+        "stock_code": "600060",
+        "short_name": "海信视像",
+        "exchange": "SH",
+        "list_date": "1997-04-22"
+    },
+    {
+        "stock_code": "600062",
+        "short_name": "华润双鹤",
+        "exchange": "SH",
+        "list_date": "1997-05-22"
+    },
+    {
+        "stock_code": "600094",
+        "short_name": "大名城  ",
+        "exchange": "SH",
+        "list_date": "1997-07-03"
+    },
+    {
+        "stock_code": "600115",
+        "short_name": "中国东航",
+        "exchange": "SH",
+        "list_date": "1997-11-05"
+    },
+    {
+        "stock_code": "600125",
+        "short_name": "铁龙物流",
+        "exchange": "SH",
+        "list_date": "1998-05-11"
+    },
+    {
+        "stock_code": "600132",
+        "short_name": "重庆啤酒",
+        "exchange": "SH",
+        "list_date": "1997-10-30"
+    },
+    {
+        "stock_code": "600158",
+        "short_name": "中体产业",
+        "exchange": "SH",
+        "list_date": "1998-03-27"
+    },
+    {
+        "stock_code": "600160",
+        "short_name": "巨化股份",
+        "exchange": "SH",
+        "list_date": "1998-06-26"
+    },
+    {
+        "stock_code": "600177",
+        "short_name": "雅戈尔  ",
+        "exchange": "SH",
+        "list_date": "1998-11-19"
+    },
+    {
+        "stock_code": "600183",
+        "short_name": "生益科技",
+        "exchange": "SH",
+        "list_date": "1998-10-28"
+    },
+    {
+        "stock_code": "600211",
+        "short_name": "DR西藏药",
+        "exchange": "SH",
+        "list_date": "1999-07-21"
+    },
+    {
+        "stock_code": "600219",
+        "short_name": "南山铝业",
+        "exchange": "SH",
+        "list_date": "1999-12-23"
+    },
+    {
+        "stock_code": "600216",
+        "short_name": "浙江医药",
+        "exchange": "SH",
+        "list_date": "1999-10-21"
+    },
+    {
+        "stock_code": "600252",
+        "short_name": "中恒集团",
+        "exchange": "SH",
+        "list_date": "2000-11-30"
+    },
+    {
+        "stock_code": "600267",
+        "short_name": "海正药业",
+        "exchange": "SH",
+        "list_date": "2000-07-25"
+    },
+    {
+        "stock_code": "600261",
+        "short_name": "阳光照明",
+        "exchange": "SH",
+        "list_date": "2000-07-20"
+    },
+    {
+        "stock_code": "600265",
+        "short_name": "ST景谷  ",
+        "exchange": "SH",
+        "list_date": "2000-08-25"
+    },
+    {
+        "stock_code": "600282",
+        "short_name": "南钢股份",
+        "exchange": "SH",
+        "list_date": "2000-09-19"
+    },
+    {
+        "stock_code": "600285",
+        "short_name": "羚锐制药",
+        "exchange": "SH",
+        "list_date": "2000-10-18"
+    },
+    {
+        "stock_code": "600299",
+        "short_name": "安迪苏  ",
+        "exchange": "SH",
+        "list_date": "2000-04-20"
+    },
+    {
+        "stock_code": "600300",
+        "short_name": "维维股份",
+        "exchange": "SH",
+        "list_date": "2000-06-30"
+    },
+    {
+        "stock_code": "600323",
+        "short_name": "瀚蓝环境",
+        "exchange": "SH",
+        "list_date": "2000-12-25"
+    },
+    {
+        "stock_code": "600329",
+        "short_name": "达仁堂  ",
+        "exchange": "SH",
+        "list_date": "2001-06-06"
+    },
+    {
+        "stock_code": "600351",
+        "short_name": "亚宝药业",
+        "exchange": "SH",
+        "list_date": "2002-09-26"
+    },
+    {
+        "stock_code": "600368",
+        "short_name": "五洲交通",
+        "exchange": "SH",
+        "list_date": "2000-12-21"
+    },
+    {
+        "stock_code": "600380",
+        "short_name": "健康元  ",
+        "exchange": "SH",
+        "list_date": "2001-06-08"
+    },
+    {
+        "stock_code": "600376",
+        "short_name": "首开股份",
+        "exchange": "SH",
+        "list_date": "2001-03-12"
+    },
+    {
+        "stock_code": "600367",
+        "short_name": "红星发展",
+        "exchange": "SH",
+        "list_date": "2001-03-20"
+    },
+    {
+        "stock_code": "600396",
+        "short_name": "*ST金山 ",
+        "exchange": "SH",
+        "list_date": "2001-03-28"
+    },
+    {
+        "stock_code": "600420",
+        "short_name": "国药现代",
+        "exchange": "SH",
+        "list_date": "2004-06-16"
+    },
+    {
+        "stock_code": "600409",
+        "short_name": "三友化工",
+        "exchange": "SH",
+        "list_date": "2003-06-18"
+    },
+    {
+        "stock_code": "600422",
+        "short_name": "昆药集团",
+        "exchange": "SH",
+        "list_date": "2000-12-06"
+    },
+    {
+        "stock_code": "600426",
+        "short_name": "华鲁恒升",
+        "exchange": "SH",
+        "list_date": "2002-06-20"
+    },
+    {
+        "stock_code": "600429",
+        "short_name": "三元股份",
+        "exchange": "SH",
+        "list_date": "2003-09-15"
+    },
+    {
+        "stock_code": "600433",
+        "short_name": "冠豪高新",
+        "exchange": "SH",
+        "list_date": "2003-06-19"
+    },
+    {
+        "stock_code": "600452",
+        "short_name": "涪陵电力",
+        "exchange": "SH",
+        "list_date": "2004-03-03"
+    },
+    {
+        "stock_code": "600480",
+        "short_name": "凌云股份",
+        "exchange": "SH",
+        "list_date": "2003-08-15"
+    },
+    {
+        "stock_code": "600486",
+        "short_name": "扬农化工",
+        "exchange": "SH",
+        "list_date": "2002-04-25"
+    },
+    {
+        "stock_code": "600521",
+        "short_name": "华海药业",
+        "exchange": "SH",
+        "list_date": "2003-03-04"
+    },
+    {
+        "stock_code": "600559",
+        "short_name": "老白干酒",
+        "exchange": "SH",
+        "list_date": "2002-10-29"
+    },
+    {
+        "stock_code": "600575",
+        "short_name": "淮河能源",
+        "exchange": "SH",
+        "list_date": "2003-03-28"
+    },
+    {
+        "stock_code": "600596",
+        "short_name": "新安股份",
+        "exchange": "SH",
+        "list_date": "2001-09-06"
+    },
+    {
+        "stock_code": "600605",
+        "short_name": "汇通能源",
+        "exchange": "SH",
+        "list_date": "1992-03-27"
+    },
+    {
+        "stock_code": "600618",
+        "short_name": "氯碱化工",
+        "exchange": "SH",
+        "list_date": "1992-11-13"
+    },
+    {
+        "stock_code": "600617",
+        "short_name": "国新能源",
+        "exchange": "SH",
+        "list_date": "1992-10-13"
+    },
+    {
+        "stock_code": "600645",
+        "short_name": "中源协和",
+        "exchange": "SH",
+        "list_date": "1993-05-04"
+    },
+    {
+        "stock_code": "600660",
+        "short_name": "福耀玻璃",
+        "exchange": "SH",
+        "list_date": "1993-06-10"
+    },
+    {
+        "stock_code": "600664",
+        "short_name": "哈药股份",
+        "exchange": "SH",
+        "list_date": "1993-06-29"
+    },
+    {
+        "stock_code": "600690",
+        "short_name": "海尔智家",
+        "exchange": "SH",
+        "list_date": "1993-11-19"
+    },
+    {
+        "stock_code": "600694",
+        "short_name": "大商股份",
+        "exchange": "SH",
+        "list_date": "1993-11-22"
+    },
+    {
+        "stock_code": "600699",
+        "short_name": "均胜电子",
+        "exchange": "SH",
+        "list_date": "1993-12-06"
+    },
+    {
+        "stock_code": "600704",
+        "short_name": "物产中大",
+        "exchange": "SH",
+        "list_date": "1996-06-06"
+    },
+    {
+        "stock_code": "600713",
+        "short_name": "南京医药",
+        "exchange": "SH",
+        "list_date": "1996-07-01"
+    },
+    {
+        "stock_code": "600727",
+        "short_name": "鲁北化工",
+        "exchange": "SH",
+        "list_date": "1996-07-02"
+    },
+    {
+        "stock_code": "600776",
+        "short_name": "东方通信",
+        "exchange": "SH",
+        "list_date": "1996-11-26"
+    },
+    {
+        "stock_code": "600789",
+        "short_name": "鲁抗医药",
+        "exchange": "SH",
+        "list_date": "1997-02-26"
+    },
+    {
+        "stock_code": "600812",
+        "short_name": "华北制药",
+        "exchange": "SH",
+        "list_date": "1994-01-14"
+    },
+    {
+        "stock_code": "600809",
+        "short_name": "山西汾酒",
+        "exchange": "SH",
+        "list_date": "1994-01-06"
+    },
+    {
+        "stock_code": "600818",
+        "short_name": "中路股份",
+        "exchange": "SH",
+        "list_date": "1994-01-28"
+    },
+    {
+        "stock_code": "600866",
+        "short_name": "星湖科技",
+        "exchange": "SH",
+        "list_date": "1994-08-18"
+    },
+    {
+        "stock_code": "600865",
+        "short_name": "百大集团",
+        "exchange": "SH",
+        "list_date": "1994-08-09"
+    },
+    {
+        "stock_code": "600872",
+        "short_name": "中炬高新",
+        "exchange": "SH",
+        "list_date": "1995-01-24"
+    },
+    {
+        "stock_code": "600873",
+        "short_name": "梅花生物",
+        "exchange": "SH",
+        "list_date": "1995-02-17"
+    },
+    {
+        "stock_code": "600885",
+        "short_name": "宏发股份",
+        "exchange": "SH",
+        "list_date": "1996-02-05"
+    },
+    {
+        "stock_code": "600908",
+        "short_name": "无锡银行",
+        "exchange": "SH",
+        "list_date": "2016-09-23"
+    },
+    {
+        "stock_code": "600929",
+        "short_name": "雪天盐业",
+        "exchange": "SH",
+        "list_date": "2018-03-26"
+    },
+    {
+        "stock_code": "600926",
+        "short_name": "杭州银行",
+        "exchange": "SH",
+        "list_date": "2016-10-27"
+    },
+    {
+        "stock_code": "600955",
+        "short_name": "维远股份",
+        "exchange": "SH",
+        "list_date": "2021-09-15"
+    },
+    {
+        "stock_code": "600983",
+        "short_name": "惠而浦  ",
+        "exchange": "SH",
+        "list_date": "2004-07-27"
+    },
+    {
+        "stock_code": "601020",
+        "short_name": "华钰矿业",
+        "exchange": "SH",
+        "list_date": "2016-03-16"
+    },
+    {
+        "stock_code": "601016",
+        "short_name": "节能风电",
+        "exchange": "SH",
+        "list_date": "2014-09-29"
+    },
+    {
+        "stock_code": "601099",
+        "short_name": "太平洋  ",
+        "exchange": "SH",
+        "list_date": "2007-12-28"
+    },
+    {
+        "stock_code": "601136",
+        "short_name": "首创证券",
+        "exchange": "SH",
+        "list_date": "2022-12-22"
+    },
+    {
+        "stock_code": "601128",
+        "short_name": "常熟银行",
+        "exchange": "SH",
+        "list_date": "2016-09-30"
+    },
+    {
+        "stock_code": "601166",
+        "short_name": "兴业银行",
+        "exchange": "SH",
+        "list_date": "2007-02-05"
+    },
+    {
+        "stock_code": "601216",
+        "short_name": "君正集团",
+        "exchange": "SH",
+        "list_date": "2011-02-22"
+    },
+    {
+        "stock_code": "601222",
+        "short_name": "林洋能源",
+        "exchange": "SH",
+        "list_date": "2011-08-08"
+    },
+    {
+        "stock_code": "601199",
+        "short_name": "江南水务",
+        "exchange": "SH",
+        "list_date": "2011-03-17"
+    },
+    {
+        "stock_code": "601187",
+        "short_name": "厦门银行",
+        "exchange": "SH",
+        "list_date": "2020-10-27"
+    },
+    {
+        "stock_code": "601229",
+        "short_name": "上海银行",
+        "exchange": "SH",
+        "list_date": "2016-11-16"
+    },
+    {
+        "stock_code": "601512",
+        "short_name": "中新集团",
+        "exchange": "SH",
+        "list_date": "2019-12-20"
+    },
+    {
+        "stock_code": "601500",
+        "short_name": "通用股份",
+        "exchange": "SH",
+        "list_date": "2016-09-19"
+    },
+    {
+        "stock_code": "601579",
+        "short_name": "会稽山  ",
+        "exchange": "SH",
+        "list_date": "2014-08-25"
+    },
+    {
+        "stock_code": "601616",
+        "short_name": "广电电气",
+        "exchange": "SH",
+        "list_date": "2011-02-01"
+    },
+    {
+        "stock_code": "601702",
+        "short_name": "华峰铝业",
+        "exchange": "SH",
+        "list_date": "2020-09-07"
+    },
+    {
+        "stock_code": "601700",
+        "short_name": "风范股份",
+        "exchange": "SH",
+        "list_date": "2011-01-18"
+    },
+    {
+        "stock_code": "601717",
+        "short_name": "郑煤机  ",
+        "exchange": "SH",
+        "list_date": "2010-08-03"
+    },
+    {
+        "stock_code": "601816",
+        "short_name": "京沪高铁",
+        "exchange": "SH",
+        "list_date": "2020-01-16"
+    },
+    {
+        "stock_code": "601827",
+        "short_name": "三峰环境",
+        "exchange": "SH",
+        "list_date": "2020-06-05"
+    },
+    {
+        "stock_code": "601838",
+        "short_name": "成都银行",
+        "exchange": "SH",
+        "list_date": "2018-01-31"
+    },
+    {
+        "stock_code": "601860",
+        "short_name": "紫金银行",
+        "exchange": "SH",
+        "list_date": "2019-01-03"
+    },
+    {
+        "stock_code": "601919",
+        "short_name": "中远海控",
+        "exchange": "SH",
+        "list_date": "2007-06-26"
+    },
+    {
+        "stock_code": "601968",
+        "short_name": "宝钢包装",
+        "exchange": "SH",
+        "list_date": "2015-06-11"
+    },
+    {
+        "stock_code": "603010",
+        "short_name": "万盛股份",
+        "exchange": "SH",
+        "list_date": "2014-10-10"
+    },
+    {
+        "stock_code": "603009",
+        "short_name": "北特科技",
+        "exchange": "SH",
+        "list_date": "2014-07-18"
+    },
+    {
+        "stock_code": "603055",
+        "short_name": "台华新材",
+        "exchange": "SH",
+        "list_date": "2017-09-21"
+    },
+    {
+        "stock_code": "603059",
+        "short_name": "倍加洁  ",
+        "exchange": "SH",
+        "list_date": "2018-03-02"
+    },
+    {
+        "stock_code": "603087",
+        "short_name": "甘李药业",
+        "exchange": "SH",
+        "list_date": "2020-06-29"
+    },
+    {
+        "stock_code": "603112",
+        "short_name": "华翔股份",
+        "exchange": "SH",
+        "list_date": "2020-09-17"
+    },
+    {
+        "stock_code": "603161",
+        "short_name": "科华控股",
+        "exchange": "SH",
+        "list_date": "2018-01-05"
+    },
+    {
+        "stock_code": "603181",
+        "short_name": "皇马科技",
+        "exchange": "SH",
+        "list_date": "2017-08-24"
+    },
+    {
+        "stock_code": "603179",
+        "short_name": "新泉股份",
+        "exchange": "SH",
+        "list_date": "2017-03-17"
+    },
+    {
+        "stock_code": "603195",
+        "short_name": "公牛集团",
+        "exchange": "SH",
+        "list_date": "2020-02-06"
+    },
+    {
+        "stock_code": "603217",
+        "short_name": "元利科技",
+        "exchange": "SH",
+        "list_date": "2019-06-20"
+    },
+    {
+        "stock_code": "603228",
+        "short_name": "景旺电子",
+        "exchange": "SH",
+        "list_date": "2017-01-06"
+    },
+    {
+        "stock_code": "603232",
+        "short_name": "格尔软件",
+        "exchange": "SH",
+        "list_date": "2017-04-21"
+    },
+    {
+        "stock_code": "603229",
+        "short_name": "奥翔药业",
+        "exchange": "SH",
+        "list_date": "2017-05-09"
+    },
+    {
+        "stock_code": "603235",
+        "short_name": "天新药业",
+        "exchange": "SH",
+        "list_date": "2022-07-12"
+    },
+    {
+        "stock_code": "603277",
+        "short_name": "银都股份",
+        "exchange": "SH",
+        "list_date": "2017-09-11"
+    },
+    {
+        "stock_code": "603281",
+        "short_name": "江瀚新材",
+        "exchange": "SH",
+        "list_date": "2023-01-31"
+    },
+    {
+        "stock_code": "603299",
+        "short_name": "苏盐井神",
+        "exchange": "SH",
+        "list_date": "2015-12-31"
+    },
+    {
+        "stock_code": "603306",
+        "short_name": "华懋科技",
+        "exchange": "SH",
+        "list_date": "2014-09-26"
+    },
+    {
+        "stock_code": "603317",
+        "short_name": "天味食品",
+        "exchange": "SH",
+        "list_date": "2019-04-16"
+    },
+    {
+        "stock_code": "603337",
+        "short_name": "杰克股份",
+        "exchange": "SH",
+        "list_date": "2017-01-19"
+    },
+    {
+        "stock_code": "603351",
+        "short_name": "威尔药业",
+        "exchange": "SH",
+        "list_date": "2019-01-30"
+    },
+    {
+        "stock_code": "603355",
+        "short_name": "莱克电气",
+        "exchange": "SH",
+        "list_date": "2015-05-13"
+    },
+    {
+        "stock_code": "603348",
+        "short_name": "文灿股份",
+        "exchange": "SH",
+        "list_date": "2018-04-26"
+    },
+    {
+        "stock_code": "603358",
+        "short_name": "华达科技",
+        "exchange": "SH",
+        "list_date": "2017-01-25"
+    },
+    {
+        "stock_code": "603365",
+        "short_name": "水星家纺",
+        "exchange": "SH",
+        "list_date": "2017-11-20"
+    },
+    {
+        "stock_code": "603385",
+        "short_name": "惠达卫浴",
+        "exchange": "SH",
+        "list_date": "2017-04-05"
+    },
+    {
+        "stock_code": "603393",
+        "short_name": "新天然气",
+        "exchange": "SH",
+        "list_date": "2016-09-12"
+    },
+    {
+        "stock_code": "603486",
+        "short_name": "科沃斯  ",
+        "exchange": "SH",
+        "list_date": "2018-05-28"
+    },
+    {
+        "stock_code": "603501",
+        "short_name": "韦尔股份",
+        "exchange": "SH",
+        "list_date": "2017-05-04"
+    },
+    {
+        "stock_code": "603505",
+        "short_name": "金石资源",
+        "exchange": "SH",
+        "list_date": "2017-05-03"
+    },
+    {
+        "stock_code": "603507",
+        "short_name": "振江股份",
+        "exchange": "SH",
+        "list_date": "2017-11-06"
+    },
+    {
+        "stock_code": "603530",
+        "short_name": "神马电力",
+        "exchange": "SH",
+        "list_date": "2019-08-05"
+    },
+    {
+        "stock_code": "603515",
+        "short_name": "欧普照明",
+        "exchange": "SH",
+        "list_date": "2016-08-19"
+    },
+    {
+        "stock_code": "603535",
+        "short_name": "嘉诚国际",
+        "exchange": "SH",
+        "list_date": "2017-08-08"
+    },
+    {
+        "stock_code": "603516",
+        "short_name": "淳中科技",
+        "exchange": "SH",
+        "list_date": "2018-02-02"
+    },
+    {
+        "stock_code": "603529",
+        "short_name": "爱玛科技",
+        "exchange": "SH",
+        "list_date": "2021-06-15"
+    },
+    {
+        "stock_code": "603567",
+        "short_name": "珍宝岛  ",
+        "exchange": "SH",
+        "list_date": "2015-04-24"
+    },
+    {
+        "stock_code": "603638",
+        "short_name": "艾迪精密",
+        "exchange": "SH",
+        "list_date": "2017-01-20"
+    },
+    {
+        "stock_code": "603669",
+        "short_name": "灵康药业",
+        "exchange": "SH",
+        "list_date": "2015-05-28"
+    },
+    {
+        "stock_code": "603681",
+        "short_name": "永冠新材",
+        "exchange": "SH",
+        "list_date": "2019-03-26"
+    },
+    {
+        "stock_code": "603613",
+        "short_name": "国联股份",
+        "exchange": "SH",
+        "list_date": "2019-07-30"
+    },
+    {
+        "stock_code": "603726",
+        "short_name": "朗迪集团",
+        "exchange": "SH",
+        "list_date": "2016-04-21"
+    },
+    {
+        "stock_code": "603727",
+        "short_name": "博迈科  ",
+        "exchange": "SH",
+        "list_date": "2016-11-22"
+    },
+    {
+        "stock_code": "603739",
+        "short_name": "蔚蓝生物",
+        "exchange": "SH",
+        "list_date": "2019-01-16"
+    },
+    {
+        "stock_code": "603786",
+        "short_name": "科博达  ",
+        "exchange": "SH",
+        "list_date": "2019-10-15"
+    },
+    {
+        "stock_code": "603809",
+        "short_name": "豪能股份",
+        "exchange": "SH",
+        "list_date": "2017-11-28"
+    },
+    {
+        "stock_code": "603883",
+        "short_name": "老百姓  ",
+        "exchange": "SH",
+        "list_date": "2015-04-23"
+    },
+    {
+        "stock_code": "603897",
+        "short_name": "长城科技",
+        "exchange": "SH",
+        "list_date": "2018-04-10"
+    },
+    {
+        "stock_code": "603889",
+        "short_name": "新澳股份",
+        "exchange": "SH",
+        "list_date": "2014-12-31"
+    },
+    {
+        "stock_code": "603929",
+        "short_name": "亚翔集成",
+        "exchange": "SH",
+        "list_date": "2016-12-30"
+    },
+    {
+        "stock_code": "605016",
+        "short_name": "百龙创园",
+        "exchange": "SH",
+        "list_date": "2021-04-21"
+    },
+    {
+        "stock_code": "605009",
+        "short_name": "豪悦护理",
+        "exchange": "SH",
+        "list_date": "2020-09-11"
+    },
+    {
+        "stock_code": "605018",
+        "short_name": "长华集团",
+        "exchange": "SH",
+        "list_date": "2020-09-29"
+    },
+    {
+        "stock_code": "605099",
+        "short_name": "共创草坪",
+        "exchange": "SH",
+        "list_date": "2020-09-30"
+    },
+    {
+        "stock_code": "605166",
+        "short_name": "聚合顺",
+        "exchange": "SH",
+        "list_date": "2020-06-18"
+    },
+    {
+        "stock_code": "605177",
+        "short_name": "东亚药业",
+        "exchange": "SH",
+        "list_date": "2020-11-25"
+    },
+    {
+        "stock_code": "605196",
+        "short_name": "华通线缆",
+        "exchange": "SH",
+        "list_date": "2021-05-11"
+    },
+    {
+        "stock_code": "605333",
+        "short_name": "沪光股份",
+        "exchange": "SH",
+        "list_date": "2020-08-18"
+    },
+    {
+        "stock_code": "605369",
+        "short_name": "拱东医疗",
+        "exchange": "SH",
+        "list_date": "2020-09-16"
+    },
+    {
+        "stock_code": "605499",
+        "short_name": "东鹏饮料",
+        "exchange": "SH",
+        "list_date": "2021-05-27"
+    },
+    {
+        "stock_code": "688019",
+        "short_name": "安集科技",
+        "exchange": "SH",
+        "list_date": "2019-07-22"
+    },
+    {
+        "stock_code": "688027",
+        "short_name": "国盾量子",
+        "exchange": "SH",
+        "list_date": "2020-07-09"
+    },
+    {
+        "stock_code": "688038",
+        "short_name": "中科通达",
+        "exchange": "SH",
+        "list_date": "2021-07-13"
+    },
+    {
+        "stock_code": "688065",
+        "short_name": "凯赛生物",
+        "exchange": "SH",
+        "list_date": "2020-08-12"
+    },
+    {
+        "stock_code": "688085",
+        "short_name": "三友医疗",
+        "exchange": "SH",
+        "list_date": "2020-04-09"
+    },
+    {
+        "stock_code": "688087",
+        "short_name": "英科再生",
+        "exchange": "SH",
+        "list_date": "2021-07-09"
+    },
+    {
+        "stock_code": "688089",
+        "short_name": "嘉必优",
+        "exchange": "SH",
+        "list_date": "2019-12-19"
+    },
+    {
+        "stock_code": "688101",
+        "short_name": "三达膜  ",
+        "exchange": "SH",
+        "list_date": "2019-11-15"
+    },
+    {
+        "stock_code": "688129",
+        "short_name": "东来技术",
+        "exchange": "SH",
+        "list_date": "2020-10-23"
+    },
+    {
+        "stock_code": "688132",
+        "short_name": "邦彦技术",
+        "exchange": "SH",
+        "list_date": "2022-09-23"
+    },
+    {
+        "stock_code": "688169",
+        "short_name": "石头科技",
+        "exchange": "SH",
+        "list_date": "2020-02-21"
+    },
+    {
+        "stock_code": "688188",
+        "short_name": "柏楚电子",
+        "exchange": "SH",
+        "list_date": "2019-08-08"
+    },
+    {
+        "stock_code": "688201",
+        "short_name": "信安世纪",
+        "exchange": "SH",
+        "list_date": "2021-04-21"
+    },
+    {
+        "stock_code": "688247",
+        "short_name": "宣泰医药",
+        "exchange": "SH",
+        "list_date": "2022-08-25"
+    },
+    {
+        "stock_code": "688386",
+        "short_name": "泛亚微透",
+        "exchange": "SH",
+        "list_date": "2020-10-16"
+    },
+    {
+        "stock_code": "688408",
+        "short_name": "中信博",
+        "exchange": "SH",
+        "list_date": "2020-08-28"
+    },
+    {
+        "stock_code": "688475",
+        "short_name": "萤石网络",
+        "exchange": "SH",
+        "list_date": "2022-12-28"
+    },
+    {
+        "stock_code": "688484",
+        "short_name": "南芯科技",
+        "exchange": "SH",
+        "list_date": "2023-04-07"
+    },
+    {
+        "stock_code": "688501",
+        "short_name": "青达环保",
+        "exchange": "SH",
+        "list_date": "2021-07-16"
+    },
+    {
+        "stock_code": "688578",
+        "short_name": "艾力斯",
+        "exchange": "SH",
+        "list_date": "2020-12-02"
+    },
+    {
+        "stock_code": "688581",
+        "short_name": "安杰思",
+        "exchange": "SH",
+        "list_date": "2023-05-19"
+    },
+    {
+        "stock_code": "688608",
+        "short_name": "恒玄科技",
+        "exchange": "SH",
+        "list_date": "2020-12-16"
+    },
+    {
+        "stock_code": "688617",
+        "short_name": "惠泰医疗",
+        "exchange": "SH",
+        "list_date": "2021-01-07"
+    },
+    {
+        "stock_code": "688616",
+        "short_name": "西力科技",
+        "exchange": "SH",
+        "list_date": "2021-03-18"
+    },
+    {
+        "stock_code": "688633",
+        "short_name": "星球石墨",
+        "exchange": "SH",
+        "list_date": "2021-03-24"
+    },
+    {
+        "stock_code": "688639",
+        "short_name": "华恒生物",
+        "exchange": "SH",
+        "list_date": "2021-04-22"
+    },
+    {
+        "stock_code": "688678",
+        "short_name": "福立旺",
+        "exchange": "SH",
+        "list_date": "2020-12-23"
+    },
+    {
+        "stock_code": "688696",
+        "short_name": "极米科技",
+        "exchange": "SH",
+        "list_date": "2021-03-03"
+    },
+    {
+        "stock_code": "688767",
+        "short_name": "博拓生物",
+        "exchange": "SH",
+        "list_date": "2021-09-08"
+    },
+    {
+        "stock_code": "833230",
+        "short_name": "欧康医药",
+        "exchange": "BJ",
+        "list_date": "2022-12-09"
+    },
+    {
+        "stock_code": "838163",
+        "short_name": "方大新材",
+        "exchange": "BJ",
+        "list_date": "2020-07-27"
+    },
+    {
+        "stock_code": "900913",
+        "short_name": "国新B股 ",
+        "exchange": "SH",
+        "list_date": "1993-09-28"
+    }
+]
